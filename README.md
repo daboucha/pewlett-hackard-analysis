@@ -23,7 +23,7 @@ Based on the results, this is how I would address the following questions:
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There are only 1,549 employees who fall under our definition of mentorship eligible. This means Pewlett Hackard will have a hard time filling all of the positions internally. It may be beneficial to locate some more high value employees to add to the mentorship program. And they should prepare for the process to hire qualified candidates externally.
+There are only 1,549 employees who fall under our definition of mentorship eligible. This means Pewlett Hackard will have a hard time filling all of the positions internally. It may be beneficial to locate some more high value employees to add to the mentorship program. Also, Pewlett Hackard should prepare for the process to hire qualified candidates externally.
 
 
 
