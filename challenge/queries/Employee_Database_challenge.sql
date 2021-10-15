@@ -51,11 +51,11 @@ ADD FOREIGN KEY (title)
 REFERENCES retiring_titles(title);
 
 -- Drop table if exists
-DROP TABLE mentorship_eligibilty;
+DROP TABLE mentorship_eligibility;
 
 -- Create a Mentorship Eligibility table
 SELECT DISTINCT ON (e.emp_no) e.emp_no, e.first_name, e.last_name, e.birth_date, de.from_date, de.to_date, t.title
-INTO mentorship_eligibilty
+INTO mentorship_eligibility
 FROM employees AS e
 JOIN dept_employee AS de
 ON e.emp_no=de.emp_no
@@ -67,9 +67,9 @@ AND e.birth_date<='19651231'
 ORDER BY e.emp_no, t.from_date DESC;
 
 -- Set primary & foreign keys
-ALTER TABLE mentorship_eligibilty
+ALTER TABLE mentorship_eligibility
 ADD PRIMARY KEY (emp_no);
-ALTER TABLE mentorship_eligibilty
+ALTER TABLE mentorship_eligibility
 ADD FOREIGN KEY (emp_no)
 REFERENCES employees(emp_no);
 
