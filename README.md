@@ -18,9 +18,11 @@ The purpose of our project is to determine the number of retiring employees by t
 Based on the results, this is how I would address the following questions:
 
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 90,398 roles (approximately 37% of the currently active workforce) are currently occupied by employees who fit our definition of retirement eligible. This means there will be many positions to fill over the next few years. 
 
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 There are only 1,549 employees who fall under our definition of mentorship eligible. This means Pewlett Hackard will have a hard time filling all of the positions internally. It may be beneficial to locate some more high value employees to add to the mentorship program. And they should prepare for the process to hire qualified candidates externally.
 
 
