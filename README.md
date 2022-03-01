@@ -11,7 +11,7 @@ The purpose of our project is to determine the number of retiring employees by t
 - With the retirment_titles table we are able to see every active employee who is eligible for retirement, what positions they have worked at Pewlett Hackard, and how long they have worked in each position.
 - With the unique_titles table we simplify the previous retirement_titles table by showing all of the employees eligible for retirement, and their current position.
 - With the retiring_titles table we are able to see the total number of each position that will be lost when the employees retire. It is important to notice here, that the majority of the retiring employees have senior titles.
-![Retiring_Titles](challenge/data/retiring_titles.png)
+![Retiring_Titles](assets/retiring_titles.png)
 - With the mentorship_eligibility table we are able to see the employee information, and the current position of all employees born in 1965. These employees should have enough experience, and would benefit the most from some mentorship, to take over the more senior roles from retiring employees.
 
 ## Summary
